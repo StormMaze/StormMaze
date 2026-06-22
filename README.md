@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @StormMaze
 - 👀 I’m interested in technology and optimistic about the future.
-- 🌱 I’m currently learning as much asI can.
+- 🌱 I’m currently learning as much as I can.
 - 💞️ I’m looking to collaborate.
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ 
 
 <!---
 StormMaze/StormMaze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
